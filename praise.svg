@@ -1,0 +1,62 @@
+<svg width="100%" height="110" viewBox="0 0 800 110" xmlns="http://www.w3.org/2000/svg">
+<style>
+    .bg {
+      fill: #f7f4fb;
+      stroke: #7c5295;
+      stroke-width: 2px;
+    }
+    .inner-border {
+      fill: none;
+      stroke: #b392ac;
+      stroke-width: 1px;
+    }
+    .accent {
+      fill: #5b2a86;
+    }
+    .text {
+      fill: #2e1547;
+      font-family: "Cinzel", "Playfair Display", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+      font-size: 27px;
+      font-weight: 700;
+      letter-spacing: 3px;
+    }
+    .ornament {
+      fill: #7c5295;
+      font-weight: 400;
+      letter-spacing: 2px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .bg {
+        fill: #14101c;
+        stroke: #8a5cf5;
+      }
+      .inner-border {
+        stroke: #49316b;
+      }
+      .accent {
+        fill: #9d65ff;
+      }
+      .text {
+        fill: #ede4ff;
+      }
+      .ornament {
+        fill: #b892ff;
+      }
+    }
+  </style>
+
+  <!-- Lavender Parchment / Deep Mystical Violet Background -->
+  <rect class="bg" x="2" y="2" width="796" height="106" rx="4" ry="4" />
+  
+  <!-- Inner Victorian Double-Line Frame -->
+  <rect class="inner-border" x="8" y="8" width="784" height="94" rx="2" ry="2" />
+
+  <!-- Thick Left Royal Purple Accent Pillar -->
+  <path class="accent" d="M 4 2 L 10 2 L 10 108 L 4 108 A 2 2 0 0 1 2 106 L 2 4 A 2 2 0 0 1 4 2 Z" />
+
+  <!-- Centered Victorian Text with Ornaments -->
+  <text class="text" x="50%" y="64" text-anchor="middle">
+    <tspan class="ornament">𐬺𖦹꧁ </tspan>PRESGARD DI HELLIS<tspan class="ornament"> ꧂𖦹𐬺</tspan>
+  </text>
+</svg>

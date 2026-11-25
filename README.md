@@ -1,6 +1,6 @@
-# Fool RPG 𐬺𖦹꧁🃏꧂𖦹𐬺
+# Fool RPG 🃏🎲
 
-***PRESGARD DI HELLIS***
+![PRESGARD DI HELLIS](./praise.svg)
 
 That's a project of a RPG system based on the world of **Lord of the Mysteries** by **Cuttlefish That Loves Diving**
 
