@@ -1,1 +1,11 @@
+# syncthing
 .stfolder/
+
+# Obsidian workspace state
+./info/.obsidian/workspace.json
+./info/.obsidian/workspace-mobile.json
+./info/.obsidian/workspaces.json
+
+# OS
+.DS_Store
+Thumbs.db
