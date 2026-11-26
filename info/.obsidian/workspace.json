@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "072e6b5cc3c9b49b",
+    "type": "split",
+    "children": [
+      {
+        "id": "17becb621e494342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daab7e41bc9566cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Characters/Benson Moretti.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Benson Moretti"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0fb8d105bafc5ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "faa1270dbb799b9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa3d337240828e93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79eca19f84d4670f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f5201382c83ef248",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a58472c847c29528",
+    "type": "split",
+    "children": [
+      {
+        "id": "1993026af7700345",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ddc0d46cc674bcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lore/Characters/Benson Moretti.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "60437024adfbbe8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lore/Characters/Benson Moretti.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "45000a3d5065b06d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "462eb9f83ccc006b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "438242f8792d5736",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lore/Characters/Benson Moretti.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "aa3d337240828e93",
+  "lastOpenFiles": [
+    "Lore/Characters/Klein Moretti (Zhou Mingrui).md",
+    "Lore/Characters/Melissa Moretti.md",
+    "Lore/Gods/Seven Orthodox Gods/Evernight Goddess.md",
+    "Lore/Gods/Seven Orthodox Gods/Seven Orthodox Gods.md",
+    "Pathways/Sleepless/Sleepless Pathway.md",
+    "Pathways/Sleepless/Nightmare.md",
+    "World/Geography/Loen Kingdom.md",
+    "World/Geography/Northern Continent.md",
+    "World/Geography/Southern Continent.md",
+    "World/Geography/Tingen.md",
+    "World/Languages/Ancient Feysac.md",
+    "World/Languages/Hermes.md",
+    "Lore/Characters/Benson Moretti.md",
+    "Mysticism/Rituals/Luck-Enhancement Ritual.md",
+    "Pathways/Sleepless/Midnight Poetry.md",
+    "Pathways/Sleepless/Sleepless.md",
+    "World/Geography/Geography.md",
+    "World/Geography/Imperial Army.md",
+    "World/Geography/Khoy University.md",
+    "Lore/Gods/Seven Orthodox Gods",
+    "Mysticism/Rituals",
+    "Mysticism/Beyonder.md",
+    "Mysticism",
+    "Pathways/Seer/Seer.md",
+    "Pathways/Seer/Miracle Invoker.md",
+    "Pathways/Seer/Attendant of Mysteries.md",
+    "Pathways/Seer/Bizarro Sorcerer.md",
+    "Pathways/Seer/Clown.md",
+    "Pathways/Seer/Faceless.md",
+    "Pathways/Seer",
+    "World/Geography",
+    "World/Languages",
+    "Sleepless",
+    "Lore/Gods",
+    "World",
+    "Pathways/Sleepless"
+  ]
+}

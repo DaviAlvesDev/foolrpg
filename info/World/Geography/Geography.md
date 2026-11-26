@@ -1,0 +1,4 @@
+- [[Northern Continent]]
+	- [[Loen Kingdom]]
+		- Awashire (IDK)
+			- [[Tingen]] 

@@ -1,0 +1,3 @@
+- Sequence 9 of [[Sleepless Pathway]]
+- Just needs to sleep 2 hours/day
+- Gets stronger at night 

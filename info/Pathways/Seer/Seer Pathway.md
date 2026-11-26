@@ -1,0 +1,11 @@
+## Sequences
+- *Sequence 9:* [[Seer]]
+- *Sequence 8:* [[Clown]]
+- *Sequence 7:* [[Magician]]
+- *Sequence 6:* [[Faceless]]
+- *Sequence 5:* [[Marionettist]]
+- *Sequence 4:* [[Bizarro Sorcerer]]
+- *Sequence 3:* [[Scholar of Yore]]
+- *Sequence 2:* [[Miracle Invoker]]
+- *Sequence 1:* [[Attendant of Mysteries]]
+- *Sequence 0:* [[The Fool]]
