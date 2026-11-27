@@ -8,5 +8,4 @@ That's a project of a RPG system based on the world of **Lord of the Mysteries**
 
 # Credits ✍️
 
-Made with ☕ by a Fool's Praiser [(@Laub)](https://github.com/davialvesdev)
-
+Made with ☕ by a Fool's Praiser [(@Magis)](https://github.com/DiMagician)
